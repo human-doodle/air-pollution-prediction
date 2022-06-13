@@ -20,7 +20,8 @@ Made following changes to make it usable for the model:
 
 ## EDA
 Looked at the distributions of the data. 
-
+![alt text](https://github.com/human-doodle/air-pollution-prediction/blob/main/img/Line-Plots-of-Air-Pollution-Time-Series.png![image](https://user-images.githubusercontent.com/46643099/173430746-06b01b3d-6b8b-4da9-963f-c00f40b4c101.png)
+ "Line Plots of air pollution time series")
 
 ## Model Building 
 
@@ -31,6 +32,12 @@ Looked at the distributions of the data.
 * Used Mean Absolute Error(MAE) loss function and the Adam version of stocastic gradient descent.
 * Fit the model for 50 training epochs with a batch size of 72.
 * Plotted graph for training and test losses
+
+* ![alt text](https://github.com/human-doodle/air-pollution-prediction/blob/main/img/trainvstest.png
+
+![image](https://user-images.githubusercontent.com/46643099/173431040-93cc02a2-176f-4c8f-a53f-81d21ce35c0b.png)
+ "Train vs Test Loss")
+
 
 ## Model performance
 
